@@ -30,7 +30,7 @@ This project requires Python 3.13 or higher.
 
 ### Clone the Repository
 ```bash
-git clone https://github.com/dalthueycomedy_assistant_chatbot.git
+git clone https://github.com/dalthuey/comedy_assistant_chatbot.git
 cd comedy_assistant_chatbot
 ```
 
